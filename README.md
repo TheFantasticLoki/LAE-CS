@@ -14,6 +14,8 @@
     <a href="https://github.com/TheFantasticLoki/Loki-s-Auto-Exec-Pack/pulls">
     <img src="https://img.shields.io/github/issues-pr-raw/TheFantasticLoki/Loki-s-Auto-Exec-Pack.svg?style=flat-square&logo=github&logoColor=white"
          alt="GitHub pull requests"></a>
+    <a href="https://github.com/TheFantasticLoki/Loki-s-Auto-Exec-Pack/stargazers">
+    <img src="https://img.shields.io/github/stars/TheFantasticLoki/Loki-s-Auto-Exec-Pack"></a>
 </p>
 
 
