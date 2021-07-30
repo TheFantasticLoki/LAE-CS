@@ -36,7 +36,9 @@
 # Instalation Instructions
 
 Drag all files to:
-> C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg
+> C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive
+
+Add +exec autoexec.cfg to launch options in steam/csgo/properties/launch options ( Optional but HIGHLY recommended)
 
 Open CSGO if not already
 
@@ -53,7 +55,11 @@ Thanks for downloading my Pack!
 
 The Auto Exec is the main file needed and alone contains the following:
 
+- ALT BINDS for Nades & buydrop binds
+
 - ICED's Map and Weapon Aliases
+
+- Radial Chat and Weapon Wheel configs
 
 - Nade Lineup Crosshair Key
 
