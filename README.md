@@ -57,6 +57,8 @@ The Auto Exec is the main file needed and alone contains the following:
 
 - ALT BINDS for Nades & buydrop binds
 
+- Extra Shift and Ctrl Binds
+
 - ICED's Map and Weapon Aliases
 
 - Radial Chat and Weapon Wheel configs
@@ -91,7 +93,7 @@ The Auto Exec is the main file needed and alone contains the following:
 
 - Interpolation Values for Smooth Demos
 
-- My Crosshair
+- My Crosshair (Toggleable)
 
 - Friends can join your community servers
 
