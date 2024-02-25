@@ -1,4 +1,11 @@
-Fantastic Loki's Config Pack
+Loki's AutoExec Script [CS2] 
+drag autoexec.cfg to <GameDirectory>/game/csgo/cfg
+add +exec autoexec.cfg to your launch options
+open console and type exec autoexec.cfg
+enjoy
+will only have to type l.main to reload script after first setup.
+
+(Depreciated) Fantastic Loki's Config Pack
 Download here: https://drive.google.com/file/d/16upFKzP6q-wf7NpIaFdrzAiApAFivaxW/view?usp=sharing
 
 Includes: 
